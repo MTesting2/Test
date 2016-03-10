@@ -1,0 +1,54 @@
+<module app="Snap! 4.0, http://snap.berkeley.edu" version="1">
+	<header>
+		<author>Eduardo Delgado</author>
+		<creation-date>04-05-1993-12:00</creation-date>
+		<update-date>04-05-1993-12:00</update-date>
+		<description>This is the module description</description>
+	</header>
+	<blocks-info>
+		<block name="sad">
+			<creation-date>04-05-1993-12:00</creation-date>
+			<update-date>04-05-1993-12:00</update-date>
+			<description>This is the block 'sad' description</description>
+			<versions>
+				<version>
+					<date>04-05-1993-12:00</date>
+					.
+					.
+					.
+				</version>
+				<version>
+					<date>04-05-1993-12:00</date>
+					.
+					.
+					.
+				</version>
+				<version>
+					<date>04-05-1993-12:00</date>
+					.
+					.
+					.
+				</version>
+			</versions>
+		</block>
+		<block name="edueeduedu">
+			<creation-date>04-05-1993-12:00</creation-date>
+			<update-date>04-05-1993-12:00</update-date>
+			<description>This is the block 'edueeduedu' description</description>
+			<versions>
+				<version>
+					<date>04-05-1993-12:00</date>
+					.
+					.
+					.
+				</version>
+				<version>
+					<date>04-05-1993-12:00</date>
+					.
+					.
+					.
+				</version>
+			</versions>
+		</block>
+	</blocks-info>
+</module>
