@@ -1,0 +1,8 @@
+<module name="MATH" author="udeedu" uploaded="2/2/2">
+<description>This is the MATH block description!</description>
+<information>This is the MATH block information!</information>
+<blocks app="Snap! 4.0, http://snap.berkeley.edu" version="1">
+<block-definition s="sad" type="command" category="looks">
+<header>blockHeader</header><code></code><inputs></inputs><script>
+<block s="up"></block></script></block-definition>
+</blocks></module>
